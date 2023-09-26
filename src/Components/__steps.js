@@ -9,3 +9,5 @@
 // 9. initialize the firebase auth and it import in login page 
 // 10. initialize the GoogleAuthProviader in log in page
 // 11. set log in page for sign with google
+// 12. for signin function signInWithPopup(auth, provaider)
+// 12.

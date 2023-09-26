@@ -16,6 +16,10 @@
 .log{
   margin-right: 10px;
 }
+.pic{
+  width: 400px;
+  height: 400px;
+}
 
 a {
   font-weight: 500;
